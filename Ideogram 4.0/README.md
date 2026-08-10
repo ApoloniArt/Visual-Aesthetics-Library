@@ -18,6 +18,7 @@ All three work together as one pipeline: browse in **ApoGalleria** → edit or l
 
 Every entry in my library is a jpg image + JSON pair:
 
+- **My library covers a multitude of styles, aesthetics, subjects, objects, people, poses, architecture.**
 - **The image** — a visual reference only, so you know what the description produces. Images are NOT the product, the product is my captioning!
 - **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 
