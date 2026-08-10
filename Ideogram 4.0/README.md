@@ -52,9 +52,9 @@ To use this library as intended, you'll need:
 
 ## 💬 Get the Library
 
-This library is available for purchase directly from me. Join my Discord to get access:
+My libraries are available for purchase directly from me. Join my **Discord** and hit me up to get access:
 
-### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
+## 👉 [ApoloniArt Discord](https://discord.gg/XDExAUzuZp)
 
 ---
 
