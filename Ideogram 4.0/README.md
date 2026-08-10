@@ -16,7 +16,7 @@ All three work together as one pipeline: browse in **ApoGalleria** → edit or l
 
 ## 🔍 What's Inside
 
-Every entry in my library is a .jpg image + Structured JSON .txt file pair:
+Every entry in my library is a **.jpg image + Structured JSON .txt** file pair:
 
 - **My library covers a multitude of styles, aesthetics, subjects, objects, people.** — I'll be frank, a big proportion is female imagery. There are erotic sections, and a few NSFW to keep the gooners happy. But it is NOT intended primarily for naughty stuff, it's all about aesthetics.
 - **The image** — a visual reference only, so you know what the description produces. Images are NOT the product, the product is my captioning!
