@@ -46,7 +46,7 @@ To use this library as intended, you'll need:
 
 This library is available for purchase directly from me. Join my Discord to get access:
 
-### 👉 [discord.gg/XDExAUzuZp](https://discord.gg/XDExAUzuZp)
+### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
 ---
 
