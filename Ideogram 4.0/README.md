@@ -1,10 +1,10 @@
-# ApoGalleria — [Ideogram 4.0] Visual Aesthetics Library
+# ApoGalleria — [Ideogram 4] Visual Aesthetics Library
 
 **+20,000 instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
 
 An extensive library of captioned reference images, each paired with a highly detailed, structured JSON aesthetic description. You are not buying the image — the image is a purely visual reference for the JSON. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
 
-Built specifically for **Ideogram 4.0** structured prompting, and designed to be used exclusively together with:
+Built specifically for **Ideogram 4** structured prompting, and designed to be used exclusively together with:
 
 - 🖼️ **[ApoGalleria](#)** — my custom ComfyUI node (Visual aesthetics Library). *Repo link coming soon.*
 - 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — the captioning node suite and custom system prompts used to generate every caption in my library.
@@ -23,7 +23,7 @@ Every entry in my library is a jpg image + JSON pair:
 - **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 - **Usual Caveats** — No captioning/prompting system is 100% perfect, all LLMs still have certain weaknesses with left/right perspectives etc. I can confidently say my captioning system is far better than most, although still not perfect.
  
-- **For complete transparency, I have provided a raw [Ideogram4 Example Dataset](#) selection from the library, not cherry-picked in any way so you can download and test the level of image quality my captioning produces. You will not be diappointed!**
+- **For complete transparency** — I have provided a raw [Ideogram 4 Example Dataset](#) selection from the Ideogram4 library, not cherry-picked in any way so you can download and test the level of image quality my captioning produces. You will not be diappointed!
 Editing anything in the caption you do not like is painless with **[ApoGalleria](#)**.
   
 Every element in each image's composition is captioned — including any watermarks, signatures and logos — each within their own bounding boxes, unwanted elements can be instantly removed via bbox deletion. That's the beauty of Ideogram 4, and the massive advantage of this model when captioning to this level of detail.
