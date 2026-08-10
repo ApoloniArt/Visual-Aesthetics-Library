@@ -6,8 +6,8 @@ An extensive library of captioned reference images, each paired with a highly de
 
 Built specifically for **Ideogram 4** structured prompting, and designed to be used exclusively together with:
 
-- 🖼️ **[ApoGalleria](#)** — my custom ComfyUI node (Visual aesthetics Library). *Repo link coming soon.*
-- 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — the captioning node suite and custom system prompts used to generate every caption in my library.
+- 🖼️ **[ApoGalleria](#)** — My custom ComfyUI node (Visual aesthetics Library). *Repo link coming soon.*
+- 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — My captioning node suite and custom system prompts used to generate every caption in my libraries.
 - 🧩 **[Kijai's Ideogram4 Prompt Builder](https://github.com/kijai/ComfyUI-KJNodes)** (ComfyUI-KJNodes) — the node my library's JSON schema is built to plug directly into.
 
 All three work together as one pipeline: browse in **ApoGalleria** → edit or lock fields → pass to output, straight into **Kijai's Ideogram4 Prompt Builder** → generate.
