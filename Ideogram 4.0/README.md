@@ -21,10 +21,11 @@ Every entry in my library is a jpg image + JSON pair:
 - **My library covers a multitude of styles, aesthetics, subjects, objects, people, poses, architecture.**
 - **The image** — a visual reference only, so you know what the description produces. Images are NOT the product, the product is my captioning!
 - **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
-
+- **Usual Caveats** — No captioning/prompting system is 100% perfect, all LLMs still have certain weaknesses with left/right perspectives etc. I can confidently say my captioning system is far better than most, although still not perfect.
+**For complete transparency, you can download and test my [Ideogram4 Example Dataset](#) to see the level of image quality my captioning produces. You will not be diappointed!**
 Every element in each image's composition is captioned — including any watermarks, signatures and logos — each within their own bounding boxes, unwanted elements can be instantly removed via bbox deletion. That's the beauty of Ideogram 4, and the massive advantage of this model when captioning to this level of detail.
 
-**This library is a mixture of my images, and images collected from various places over a long, long time. To be clear, you are buying my time, skills and compute that it took to caption the thousands of images, not the images themselves. The images are purely to extract a reference to create a highly descriptive json. I do not sell other people's work, only my own.**
+**My libraries are a mixture of my images, and images I have collected from various places over a long, long time. To be clear, you are buying my time, skills and compute that it took to caption the thousands of images, not the images themselves. The images are purely to extract a reference to create a highly descriptive json. I do not sell other people's work, only my own.**
 
 ## ✨ Why Use It
 
