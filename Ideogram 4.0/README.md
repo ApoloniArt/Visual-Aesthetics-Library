@@ -24,7 +24,7 @@ Every entry in my library is a jpg image + JSON pair:
 
 Every element in each image's composition is captioned — including any watermarks, signatures and logos — each within their own bounding boxes, unwanted elements can be instantly removed via bbox deletion. That's the beauty of Ideogram 4, and the massive advantage of this model when captioning to this level of detail.
 
-**This library is a mixture of my images, and images collected from various places over a long, long time. I do not sell other people's work, only my own.**
+**This library is a mixture of my images, and images collected from various places over a long, long time. To be clear, you are buying my time, skills and compute that it took to caption the thousands of images, not the images themselves. The images are purely to extract a reference to create a highly descriptive json. I do not sell other people's work, only my own.**
 
 ## ✨ Why Use It
 
