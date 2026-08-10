@@ -23,6 +23,7 @@ Every entry in my library is a jpg image + JSON pair:
 - **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 
 Every element in each image's composition is captioned — including any watermarks, signatures and logos — each within their own bounding boxes, unwanted elements can be instantly removed via bbox deletion. That's the beauty of Ideogram 4, and the massive advantage of this model when captioning to this level of detail.
+
 **This library is a mixture of my images, and images collected from various places over a long, long time. I do not sell other people's work, only my own.**
 
 ## ✨ Why Use It
