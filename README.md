@@ -1,4 +1,3 @@
-[README[Main].md](https://github.com/user-attachments/files/30901898/README.Main.md)
 # ApoGalleria-Libraries
 
 **Instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
