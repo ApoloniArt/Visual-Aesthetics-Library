@@ -56,4 +56,5 @@ This library is available for purchase directly from me. Join my Discord to get 
 
 ---
 
-*Made by [ApoloniArt](https://github.com/ApoloniArt)* because I wanted inspiration on tap. With **[ApoGalleria](#)** and a monster library, I never have to worry again. Neither will you 💜
+*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **[ApoGalleria](#)** and a colossal image library, I never have to worry again. 
+Neither will you 💜
