@@ -1,4 +1,4 @@
-# ApoGalleria — Visual Aesthetics Libraries
+# ApoGalleria — Ideogram 4.0 Visual Aesthetics Library
 
 **+20,000 instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
 
@@ -31,7 +31,7 @@ Because every element — including watermarks and signatures — is captioned w
 
 ## 🛠️ How It Was Made
 
-- Captioned using my **ApoStudio** nodes and custom system prompts, built specifically for Ideogram 4's structured JSON format.
+- Captioned using my **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** nodes and custom system prompts, built specifically for Ideogram 4's structured JSON format.
 - Every single caption was **manually syntax-checked by me, by hand**, at the point of creation, for correct JSON structure and closing syntax. No automated agents were used to verify the library — this was a fully manual quality pass across the entire set. It's not impossible that something slipped through, but it would genuinely surprise me.
 - Scale: ~20,000 images captioned, representing roughly **55 straight hours** of captioning work.
 
