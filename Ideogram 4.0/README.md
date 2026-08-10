@@ -35,6 +35,7 @@ Every element in each image's composition is captioned — including any waterma
 - **Never run out of ideas.** Search my colossal library for a style, subject, or mood and you've got a ready-to-run starting point — no blank-page problem.
 - **Mix and match.** Like the lighting and color of one image but not the subject? Open it in **[ApoGalleria](#)**, live-edit the JSON fields you want to change, lock the rest, and pass the result straight to output. Done.
 - **Run it instantly, or make it yours.** Use any image as-is for a recreation, or treat it as a fully editable starting template, moulding your idea from a seed.
+- ## Remember.....It's all about aesthetics, not a perfect reproduction 🫦
 
 ## 🛠️ How It Was Created 
 
