@@ -2,7 +2,7 @@
 
 **+20,000 instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
 
-An extensive library of captioned reference images, each paired with a highly detailed, structured JSON aesthetic description. You are not buying the image — the image is a purely visual reference for the JSON. **What you're buying is the description itself, and my time & compute**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
+An extensive library of captioned reference images, each paired with a highly detailed, structured JSON aesthetic description. You are not buying the image — the image is a purely visual reference for the JSON. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
 
 Built specifically for **Ideogram 4.0** structured prompting, and designed to be used exclusively together with:
 
