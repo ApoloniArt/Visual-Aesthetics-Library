@@ -16,11 +16,11 @@ All three work together as one pipeline: browse in **ApoGalleria** → edit or l
 
 ## 🔍 What's Inside
 
-Every entry in my library is a jpg image + JSON pair:
+Every entry in my library is a .jpg image + Structured JSON .txt file pair:
 
 - **My library covers a multitude of styles, aesthetics, subjects, objects, people.** — I'll be frank, a big proportion is female imagery. There are erotic sections, and a few NSFW to keep the gooners happy. But it is NOT intended primarily for naughty stuff, it's all about aesthetics.
 - **The image** — a visual reference only, so you know what the description produces. Images are NOT the product, the product is my captioning!
-- **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
+- **The JSON .txt file** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 - **Usual Caveats** — No captioning/prompting system is 100% perfect, all LLMs still have certain weaknesses with left/right perspectives etc. I can confidently say my captioning system is far better than most, although still not perfect.
  
 - **For complete transparency** — I have provided a raw [Ideogram 4 Example Dataset](#) selection, taken from the Ideogram 4 library. Not cherry-picked in any way, so you can download and test the level of image quality my captioning produces. You will not be diappointed!
