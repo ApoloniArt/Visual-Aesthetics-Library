@@ -23,7 +23,7 @@ Every entry in my library is a jpg image + JSON pair:
 - **The JSON** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 - **Usual Caveats** — No captioning/prompting system is 100% perfect, all LLMs still have certain weaknesses with left/right perspectives etc. I can confidently say my captioning system is far better than most, although still not perfect.
  
-- **For complete transparency** — I have provided a raw [Ideogram 4 Example Dataset](#) selection from the Ideogram4 library, not cherry-picked in any way so you can download and test the level of image quality my captioning produces. You will not be diappointed!
+- **For complete transparency** — I have provided a raw [Ideogram 4 Example Dataset](#) selection, taken from the Ideogram 4 library. Not cherry-picked in any way, so you can download and test the level of image quality my captioning produces. You will not be diappointed!
 Editing anything in the caption you do not like is painless with **[ApoGalleria](#)**.
   
 Every element in each image's composition is captioned — including any watermarks, signatures and logos — each within their own bounding boxes, unwanted elements can be instantly removed via bbox deletion. That's the beauty of Ideogram 4, and the massive advantage of this model when captioning to this level of detail.
