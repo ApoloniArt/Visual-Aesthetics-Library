@@ -19,7 +19,7 @@ All three work together as one pipeline: browse in **ApoGalleria** → edit or l
 Every entry in my library is a **[image .jpg + structured JSON .txt]** file pair:
 
 - **My library covers a multitude of styles, aesthetics, subjects, objects, people.** — I'll be frank, a big proportion is female imagery. There are erotic sections, and a few NSFW to keep the gooners happy. But it is NOT intended primarily for naughty stuff, it's all about aesthetics.
-- **The image** — a visual reference only, so you know what the description produces. Images are NOT the product, the product is my captioning!
+- **The image** — a visual reference only, so you know what the description is designed to replicate. Images are NOT the product, the product is my captioning!
 - **The JSON .txt file** — a highly detailed, structured caption describing the exact aesthetic: lighting, color palette, medium, art style, and full compositional breakdown, including all individual elements coordinated within bounding boxes.
 - **Usual Caveats** — No captioning/prompting system is 100% perfect, all LLMs still have certain weaknesses with left/right perspectives etc. I can confidently say my captioning system is far better than most, although still not perfect.
  
