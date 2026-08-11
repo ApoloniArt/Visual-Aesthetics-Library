@@ -1,5 +1,8 @@
 # ApoGalleria-Libraries
 
+I love Ideogram 4, and I'm a purist and control freak.....so I start at the very top. 
+My entire Library contains the highest descriptive level of structured json image captions possible, at an unmatched level of intricate detail. you can then filter down to other architectures to output captions using my **[ApoGalleria](#)** add-on 'convert output to' nodes.
+
 **Instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
 
 This repository is a growing collection of captioned reference-image libraries. Each library targets a specific image-generation architecture and pairs images with a highly detailed aesthetic description, written in whichever format that architecture actually reads best. You are not buying the images — they're purely a visual reference for the caption. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
