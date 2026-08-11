@@ -1,6 +1,7 @@
 # ApoGalleria-Libraries
 
-I adore Ideogram 4, I'm also a purist and control freak.....so I want complete creative license on every level. 
+I adore Ideogram 4, I'm also a purist and control freak.....so I want complete creative license on every level.
+So I created **[ApoGalleria](#)** as a personal project to fill my exact needs, then cam this, the biggest image aesthetics library I ever created.
 My entire Library contains the highest descriptive level of structured json image captions possible, at an unmatched level of intricate detail. you can then filter down to other architectures to output captions using my **[ApoGalleria](#)** add-on 'convert output to' nodes.
 
 **Instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
