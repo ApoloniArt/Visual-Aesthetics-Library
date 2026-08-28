@@ -3,6 +3,7 @@
 
 ## ANIME-INFLUENCER
 4 categories | 2984 individual captioned pairs
+
 ![AnimeInfluencer](assets/Anime-Influencer.jpg)
 
 You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
