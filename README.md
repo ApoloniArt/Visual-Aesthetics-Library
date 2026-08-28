@@ -1,4 +1,4 @@
-# ApoGalleria-Libraries
+# Visual Aesthetics Library
 
 I adore Ideogram 4, I'm also a purist and control freak.....I want complete creative license on every level.
 So I created **[ApoGalleria](#)** as a personal project to fill my exact needs. To satiate ApoGalleria, this behemoth was born. 
