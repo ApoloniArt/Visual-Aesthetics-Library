@@ -2,7 +2,7 @@
 ### A breakdown of each sub-folder's contents, the categories contained within, and number of Captioned reference pairs for each category.
 
 ## [ANIME-INFLUENCER](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Anime-Influencer.jpg)
-4 Categories | 1492 Captioned Pairs
+**4 Categories | 1492 Captioned Pairs**
 
 | Category | Captioned Pairs |
 |---|---|
@@ -12,7 +12,7 @@
 | AnimeBeauty3 | 92 |
 
 ## [APOLONIART-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Girls.jpg) [Contains NSFW Imagery]
-15 Categories | 5219 Captioned Pairs
+**15 Categories | 5219 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
@@ -26,7 +26,7 @@
 | JDreamLoFi | 50 |
 
 ## [APOLONIART-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Styles.jpg) [Contains NSFW Imagery]
-14 Categories | 906 Captioned Pairs
+**14 Categories | 906 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
@@ -39,7 +39,7 @@
 | CrimeScene | 20 | TrainWreckage | 38 |
 
 ## [ARTIST-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Artist-Styles.jpg)
-5 Categories | 709 Captioned Pairs
+**5 Categories | 709 Captioned Pairs**
 
 | Category | Captioned Pairs |
 |---|---|
@@ -50,7 +50,7 @@
 | WuGuanzhong | 67 |
 
 ## [JAPAN-GRAVURE](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Japan-Gravure.jpg) [Contains NSFW Imagery]
-57 Categories | 20,024 Captioned Pairs
+**57 Categories | 20,024 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
