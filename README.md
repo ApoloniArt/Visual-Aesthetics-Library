@@ -50,11 +50,12 @@ Each folder below is the main collection, with sub-folders and current number of
 - **Mix and match.** Like the lighting of one image but not the subject? Open it in ApoGalleria, live-edit the parts you want, keep the rest, and pass it straight to output.
 - **Run it instantly, or make it yours.** Use any entry as-is, or treat it as a fully editable starting template.
 
-## 🛠️ How They're Made
+## 🛠️ How I made this...
 
-- Captioned using my **ApoStudio** nodes and custom system prompts, tailored to each architecture's specific prompting format — structured JSON where the model supports it, natural language where that's what it was trained on.
-- Each library represents a large, dedicated captioning effort — see the individual library README for exact scale and time invested.
-- My libraries are a mix of my own images and images collected over a long time. You're buying my time, skills, and the captioning work — not the images themselves. I don't sell other people's work, only my own.
+- Captioned using my [ApoStudio](https://github.com/ApoloniArt/ApoStudio) nodes, LM Studio back end server, and custom system prompts. Tailored to Ideogram 4's specific prompting format — structured JSON what it was trained on.
+- My library represents a colossal, dedicated captioning effort, the breakdown for scale and time invested is as follows:
+## 50,515 Captions @ avg ~15s/caption = 210 hours/ 8.7 days of continuous captioning. Plus the hundreds of hours generating and collecting images.
+- Visual Aesthetics Library contains a mix of my own images, and images collected over a long, long time. You're buying my time, skills, and the captioning work — not the images themselves. I don't sell other people's work, only my own.
 
 ## 📦 Requirements
 
