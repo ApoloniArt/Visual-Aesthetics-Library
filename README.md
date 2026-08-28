@@ -23,7 +23,7 @@ Browse in **ApoGalleria** → edit or lock fields → pass to output, straight i
 
 Each folder below is the main collection, with sub-folders and current number of captioned images.
 
-| Collection | Sub-Folders | Total |
+| Collection | Sub-Folders | Total Image/Captions |
 |---|---|---|
 | Anime Influencer | 4 | 1,492 |
 | ApoloniArt-Girls | 15 | 5,219 |
