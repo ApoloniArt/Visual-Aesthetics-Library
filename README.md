@@ -4,7 +4,7 @@ I adore Ideogram 4, I'm also a purist and control freak.....I want complete crea
 So I created **[ApoGalleria](#)** as a personal project to fill my exact needs. To satiate ApoGalleria, ***Visual Aesthetics Library*** was born. 
 The largest image aesthetics library I ever created. My Library contains over 50,000 images captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
 ![ApoGalleria](assets/ApoGalleria.jpg)
-You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, giving you around 500,000 generational possibilities.
+You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
 
 ## Instant styles, subjects & aesthetics — searchable, editable, and ready to run.
 
