@@ -36,6 +36,7 @@ Each folder below is the main collection, with sub-folders and current number of
 | Pinterest-Unique | 55 | 1,101 |
 
 ## Current total as of 28/08/2026
+https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/assets/Current%20Total.png
 
 ## 🔍 What's Inside my Library
 
