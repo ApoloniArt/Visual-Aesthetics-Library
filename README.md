@@ -10,12 +10,12 @@ You can also utilise my ApoGalleria **sibling nodes** to convert any/all caption
 
 My library is an ever growing collection of reference images, captioned specifically for Ideogram 4. You are not buying the images — they're purely a visual reference for the caption. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition and subject, that you can run instantly or edit to make your own.
 
-**Visual Aesthetics Library** is built for use with my:
+**Visual Aesthetics Library** is built by, and for use with my:
 
-- 🖼️ **[ApoGalleria](#)** — my custom ComfyUI node (visual aesthetics library manager). *Repo link coming soon.*
-- 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — my captioning node suite and custom system prompts, used to generate every caption across all of these libraries.
+- 🖼️ **[ApoGalleria](#)** — my NEW custom ComfyUI node
+- 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — My LLM powered node suite, and custom system prompts used to generate every caption across this entire library.
 
-Browse in **ApoGalleria** → edit or lock fields → pass to output → generate.
+#### Browse in **ApoGalleria** → edit or lock fields → pass to output → generate 🫵
 
 ---
 
