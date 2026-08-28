@@ -3,8 +3,7 @@
 
 ## ANIME-INFLUENCER
 4 Categories | 1492 Captioned Pairs
-
- ![ApoGalleria](assets/Anime-Influencer.jpg)
+[(assets/Anime-Influencer.jpg)](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Anime-Influencer.jpg)
 
 | Category | Captioned Pairs |
 |---|---|
