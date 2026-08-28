@@ -38,6 +38,17 @@
 | Copper | 104 | Pripyat | 48 |
 | CrimeScene | 20 | TrainWreckage | 38 |
 
+## [ARTIST-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Artist-Styles.jpg)
+5 Categories | 709 Captioned Pairs
+
+| Category | Captioned Pairs |
+|---|---|
+| AlbenizRodriguez | 303 |
+| EdwardHopper | 43 |
+| RalphSteadman | 104 |
+| SkottieYoung | 192 |
+| WuGuanzhong | 67 |
+
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
