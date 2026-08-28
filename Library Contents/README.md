@@ -49,7 +49,7 @@
 | SkottieYoung | 192 |
 | WuGuanzhong | 67 |
 
-## [APOLONIART-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Girls.jpg) [Contains NSFW Imagery]
+## [JAPAN-GRAVURE](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Japan-Gravure.jpg) [Contains NSFW Imagery]
 15 Categories | 5219 Captioned Pairs
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
