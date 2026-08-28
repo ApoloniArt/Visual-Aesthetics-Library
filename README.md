@@ -19,7 +19,7 @@ Browse in **ApoGalleria** → edit or lock fields → pass to output, straight i
 
 ---
 
-## 📚 Current collections in Visual Aesthetics Library
+## 📚 Current collections in *Visual Aesthetics Library*
 
 Each folder below is a collection of captioned images, covering the exact caption format, node pairing, and details for that architecture.
 
