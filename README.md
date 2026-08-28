@@ -56,7 +56,7 @@ Each folder below is the main collection, with sub-folders and current number of
 
 - Captioned using my [ApoStudio](https://github.com/ApoloniArt/ApoStudio) nodes, LM Studio back end server, and custom system prompts. Tailored to Ideogram 4's specific prompting format — structured JSON what it was trained on.
 - Visual Aesthetics Library contains a mix of my own images, and images collected over a long, long time. You're buying my time, skills, and the captioning work — not the images themselves. I don't sell other people's work, only my own.
-- - My library represents a colossal, dedicated captioning effort. The breakdown for scale and time invested is as follows:
+- My library represents a colossal, dedicated captioning effort. The breakdown for scale and time invested is as follows:
 #### ```Taking a conservative average of 15 seconds per caption, total creation time for my library to date: 210 continuous GPU hours, 9 days. All done in the heat of summer. Factor in time spent generating and collecting reference images, and it is weeks of continuous work.```
 - My goal is to have a captioned reference library of 100,000 pieces, covering every style imaginable.
 
