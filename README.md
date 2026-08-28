@@ -43,6 +43,8 @@ Each folder below is the main collection, with sub-folders and current number of
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
 - **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA.
 - **Example dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality before purchasing.
+- **Disclaimer** — My library contains erotic imagery, and some NSFW imagery.
+- **Transparency** — My json captions are highly accurate & detailed, but not 100% perfect. They describe exact composition of the image, including any signatures, logos & watermarks. This is the beauty of Ideo4 as they can just be removed instantly by bbox deletion. 
 
 ## ✨ Why use my Library?
 
