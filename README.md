@@ -42,7 +42,7 @@ Each folder below is the main collection, with sub-folders and current number of
 - **50,000+ Image & caption pairs** — the image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON).
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
 - **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA.
-- **Example dataset** — I have provided a non-cherry-picked sample folder so you can preview caption quality before purchasing.
+- **Example dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality before purchasing.
 
 ## ✨ Why use my Library?
 
@@ -56,6 +56,7 @@ Each folder below is the main collection, with sub-folders and current number of
 - My library represents a colossal, dedicated captioning effort, the breakdown for scale and time invested is as follows:
 - Visual Aesthetics Library contains a mix of my own images, and images collected over a long, long time. You're buying my time, skills, and the captioning work — not the images themselves. I don't sell other people's work, only my own.
 ### ```Taking a conservative average of 15 seconds per caption, total creation time for my library to date: 210 continuous GPU hours, 9 days. All done in the heat of summer. Factor in time spent generating and collecting reference images, and it is weeks of continuous work.```
+- My goal is to have a captioned reference library of 100,000 pieces, covering every style imaginable.
 
 ## 📦 Requirements
 
