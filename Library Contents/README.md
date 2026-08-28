@@ -2,7 +2,7 @@
 ### A breakdown of each sub-folder's contents, the categories contained within, and number of Captioned reference pairs for each category.
 
 ## ANIME-INFLUENCER
-4 Categories | 2984 Captioned Pairs
+4 Categories | 1492 Captioned Pairs
 
 ![ApoGalleria](assets/Anime-Influencer.jpg)
 | Collection | Sub-Folders | Total Image/Captions |
