@@ -3,14 +3,14 @@
 I adore Ideogram 4, I'm also a purist and control freak.....I want complete creative license on every level.
 So I created **[ApoGalleria](#)** as a personal project to fill my exact needs. To satiate ApoGalleria, this behemoth was born. 
 **The largest image aesthetics library I ever created.**
-My entire 25.000 image Library contains the highest descriptive level of structured json captions currently possible, at an unmatched level of intricate detail. 
-You can then filter down to other architectures, to output captions in their format using my **[ApoGalleria](#)** add-on 'convert output to' nodes.
+My Library contains over 50,000 images captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
+You can also use my **[ApoGalleria](#)** sibling nodes, to convert any/all captions to Natural language, or Flux2 json. Just these two extra nodes effectively increase the power of my library by ~10x, giving you around 500,000 generational possibilities.
 
 **Instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
 
-This repository is a growing collection of captioned reference-image libraries. Each library targets a specific image-generation architecture and pairs images with a highly detailed aesthetic description, written in whichever format that architecture actually reads best. You are not buying the images — they're purely a visual reference for the caption. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
+My library is an ever growing collection of reference images, captioned specifically for Ideogram 4. You are not buying the images — they're purely a visual reference for the caption. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
 
-Every library is built to be used together with:
+**Visual Aesthetics Library** is built for use with my:
 
 - 🖼️ **[ApoGalleria](#)** — my custom ComfyUI node (visual aesthetics library manager). *Repo link coming soon.*
 - 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — my captioning node suite and custom system prompts, used to generate every caption across all of these libraries.
