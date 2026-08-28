@@ -76,5 +76,5 @@ My library is exclusively available for purchase directly from me. Join my Disco
 
 ---
 
-*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and these libraries, I never have to worry again.
+*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and this library, I never have to worry again.
 Neither will you 💜
