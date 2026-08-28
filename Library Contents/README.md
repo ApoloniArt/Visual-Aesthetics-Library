@@ -54,21 +54,21 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| 1JapanGravureHQ | 4084 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| AoiTsukasa | 238 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| AzumiRen | 107 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| FujiuraMegu | 355 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| Gravure-X | 387 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HamasakiRio | 306 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HanedaAi | 156 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HarukiSato | 220 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HarunaHana | 259 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HatsuneMinori | 567 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HibikiOshimi | 176 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HiraharaKokoro | 78 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| IrieSaaya | 360 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| IshiharaSatomi | 63 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| IsoyamaSaya | 746 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
