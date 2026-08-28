@@ -71,7 +71,7 @@
 | IsoyamaSaya | 746 | MitsuDan | 172 | SuzukiKoharu | 60 |
 
 ## [MIDJOURNEY](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Midjourney.jpg)
-### **57 Categories | 20,024 Captioned Pairs**
+### **64 Categories | 1,817 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|---|---|
