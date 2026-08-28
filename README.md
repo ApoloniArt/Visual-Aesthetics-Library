@@ -15,7 +15,7 @@ My library is an ever growing collection of reference images, captioned specific
 - 🖼️ **[ApoGalleria](#)** — my custom ComfyUI node (visual aesthetics library manager). *Repo link coming soon.*
 - 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — my captioning node suite and custom system prompts, used to generate every caption across all of these libraries.
 
-Browse in **ApoGalleria** → edit or lock fields → pass to output, straight into the matching prompt-builder/conditioning node for that architecture → generate.
+Browse in **ApoGalleria** → edit or lock fields → pass to output → generate.
 
 ---
 
