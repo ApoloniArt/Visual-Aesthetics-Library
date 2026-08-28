@@ -31,11 +31,13 @@ Each folder below is the main collection, with sub-folders and current number of
 | Artist-Styles | 5 | 709 |
 | Japan-Gravure | 57 | 20,024 |
 | Midjourney | 64 | 1817 |
-| Pinterest-Girls | 34 | 10,974 |
+| Pinterest-Girls | 34 | 10,975 |
 | Pinterest-Style | 55 | 8,273 |
 | Pinterest-Unique | 55 | 1,101 |
 
-## 🔍 What's Inside Each Library
+## Current total as of 28/08/2026
+
+## 🔍 What's Inside my Library
 
 - **Image + caption pairs** — the image is a visual reference only; the caption is the product. The exact caption format (structured JSON, natural-language prose, or both) is whatever that architecture was actually trained to read — see each library's own README for specifics.
 - **Highly detailed captions** — lighting, color palette, medium, art style, and full compositional breakdown, down to individual elements where the format and architecture support it (e.g. bounding boxes for JSON-based schemas).
