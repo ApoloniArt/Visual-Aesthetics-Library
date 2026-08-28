@@ -6,7 +6,7 @@ So I created **[ApoGalleria](#)** as a personal project to fill my exact needs. 
 My Library contains over 50,000 images captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
 You can also use my **[ApoGalleria](#)** sibling nodes, to convert any/all captions to Natural language, or Flux2 json. Just these two extra nodes effectively increase the power of my library by ~10x, giving you around 500,000 generational possibilities.
 
-**## Instant styles, subjects & aesthetics — searchable, editable, and ready to run.**
+## Instant styles, subjects & aesthetics — searchable, editable, and ready to run.
 
 My library is an ever growing collection of reference images, captioned specifically for Ideogram 4. You are not buying the images — they're purely a visual reference for the caption. **What you're buying is the description itself**: a precise, reusable breakdown of style, lighting, composition, and subject that you can run instantly or edit to make your own.
 
