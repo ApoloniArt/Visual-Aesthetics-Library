@@ -25,12 +25,15 @@ Each folder below is the main collection, with sub-folders and current number of
 
 | Collection | Sub-Folders | Total |
 |---|---|---|
-| Anime Influencer | 4 | 1494 |
-| Flux2 | Structured JSON | 🔜 Planned |
-| Qwen-Image | Natural language | 🔜 Planned |
-| Z-Image Turbo | Natural language | 🔜 Planned |
-| Krea2 | Natural language (JSON-capable) | 🔜 Planned |
-| Flux (1) | Natural language | 🔜 Planned |
+| Anime Influencer | 4 | 1,492 |
+| ApoloniArt-Girls | 15 | 5,219 |
+| ApoloniArt-Style | 14 | 906 |
+| Artist-Styles | 5 | 709 |
+| Japan-Gravure | 57 | 20,024 |
+| Midjourney | 64 | 1817 |
+| Pinterest-Girls | 34 | 10,974 |
+| Pinterest-Style | 55 | 8,273 |
+| Pinterest-Unique | 55 | 1,101 |
 
 ## 🔍 What's Inside Each Library
 
