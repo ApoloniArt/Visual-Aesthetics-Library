@@ -20,8 +20,8 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
-| AnimeBeauty | 1,170 | AnimeBeauty2 | 135 |
-| AnimeBeauty1 | 95 | AnimeBeauty2 | 135 |
+| BaroqueGoddess | 21 | HotGirls | 401 |
+| HugeBreasts | 291 | JapanRetroErotica | 144 |
 | AnimeBeauty2 | 135 | AnimeBeauty2 | 135 |
 | AnimeBeauty3 | 92 | AnimeBeauty2 | 135 |
 | AnimeBeauty | 1,170 | AnimeBeauty2 | 135 |
