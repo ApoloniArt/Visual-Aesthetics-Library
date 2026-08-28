@@ -54,21 +54,21 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
-| 1JapanGravureHQ | 4084 | IwasaMayuko | 86 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| AoiTsukasa | 238 | JiuJiu | 76 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| AzumiRen | 107 | KakiuchiRikako | 228 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| FujiuraMegu | 355 | KanzakiTsukasa | 115 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| Gravure-X | 387 | KasumiRisa | 335 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HamasakiRio | 306 | KawaguchiHaruna | 160 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HanedaAi | 156 | KiriyamaRui | 178 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HarukiSato | 220 | KishiAsuka | 397 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HarunaHana | 259 | KitagawaHitomi | 137 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HatsuneMinori | 567 | lenfriedom | 183 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HibikiOshimi | 176 | ManaSakura | 298 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| HiraharaKokoro | 78 | MariaTainaka | 49 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| IrieSaaya | 360 | MatsuganeYoko | 806 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| IshiharaSatomi | 63 | MatsuokaChina | 71 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
-| IsoyamaSaya | 746 | MitsuDan | 172 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| 1JapanGravureHQ | 4084 | IwasaMayuko | 86 | MizukiTama | 152 | JDreamUrban | 1303 |
+| AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | JDreamUrban | 1303 |
+| AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | JDreamUrban | 1303 |
+| FujiuraMegu | 355 | KanzakiTsukasa | 115 | NishidaMai | 792 | JDreamUrban | 1303 |
+| Gravure-X | 387 | KasumiRisa | 335 | OnoueWakaba | 67 | JDreamUrban | 1303 |
+| HamasakiRio | 306 | KawaguchiHaruna | 160 | RaeLilBlack | 204 | JDreamUrban | 1303 |
+| HanedaAi | 156 | KiriyamaRui | 178 | ReikoKobayakawa | 235 | JDreamUrban | 1303 |
+| HarukiSato | 220 | KishiAsuka | 397 | SakuraiTomoka | 202 | JDreamUrban | 1303 |
+| HarunaHana | 259 | KitagawaHitomi | 137 | SamayaAi | 479 | JDreamUrban | 1303 |
+| HatsuneMinori | 567 | lenfriedom | 183 | SasakiNozomi | 254 | JDreamUrban | 1303 |
+| HibikiOshimi | 176 | ManaSakura | 298 | SayaSong | 328 | JDreamUrban | 1303 |
+| HiraharaKokoro | 78 | MariaTainaka | 49 | ShinozakiAi | 538 | JDreamUrban | 1303 |
+| IrieSaaya | 360 | MatsuganeYoko | 806 | ShirakawaMai | 138 | JDreamUrban | 1303 |
+| IshiharaSatomi | 63 | MatsuokaChina | 71 | ShizukuKoto | 90 | JDreamUrban | 1303 |
+| IsoyamaSaya | 746 | MitsuDan | 172 | SuzukiKoharu | 60 | JDreamUrban | 1303 |
 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
