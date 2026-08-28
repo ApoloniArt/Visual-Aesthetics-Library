@@ -49,6 +49,27 @@
 | SkottieYoung | 192 |
 | WuGuanzhong | 67 |
 
+## [APOLONIART-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Girls.jpg) [Contains NSFW Imagery]
+15 Categories | 5219 Captioned Pairs
+
+| Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
+|---|---|---|---|---|---|---|---|
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 | BaroqueGoddess | 21 | JDreamUrban | 1303 |
+
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
