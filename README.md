@@ -19,9 +19,9 @@ Browse in **ApoGalleria** → edit or lock fields → pass to output, straight i
 
 ---
 
-## 📚 Libraries in This Repo
+## 📚 Current collections in Visual Aesthetics Library
 
-Each folder below is a self-contained library with its own README, covering the exact caption format, node pairing, and details for that architecture.
+Each folder below is a collection of captioned images, covering the exact caption format, node pairing, and details for that architecture.
 
 | Library | Caption Format | Status |
 |---|---|---|
