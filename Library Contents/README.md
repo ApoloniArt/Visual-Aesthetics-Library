@@ -3,6 +3,7 @@
 
 ## ANIME-INFLUENCER
 4 Categories | 1492 Captioned Pairs
+
 ![ApoGalleria](assets/Anime-Influencer.jpg)
 
 | Category | Captioned Pairs |
