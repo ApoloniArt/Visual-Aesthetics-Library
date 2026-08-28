@@ -21,9 +21,9 @@ Browse in **ApoGalleria** → edit or lock fields → pass to output, straight i
 
 ## 📚 Current collections in *Visual Aesthetics Library*
 
-Each folder below is a collection of captioned images, covering the exact caption format, node pairing, and details for that architecture.
+Each folder below is the main collection, with sub-folders and current number of captioned images.
 
-| Library | Caption Format | Status |
+| Collection | Sub-Folders | Total |
 |---|---|---|
 | [Ideogram 4.0](./Ideogram%204.0) | Structured JSON | ✅ Available |
 | Flux2 | Structured JSON | 🔜 Planned |
