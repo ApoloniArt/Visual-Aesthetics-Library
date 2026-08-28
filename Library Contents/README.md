@@ -13,6 +13,30 @@
 | AnimeBeauty2 | 135 |
 | AnimeBeauty3 | 92 |
 
+## APOLONIART-GIRLS
+15 Categories | 5219 Captioned Pairs
+
+![ApoGalleria](assets/ApoloniArt-Girls.jpg)
+
+| Category | Captioned Pairs |
+|---|---|
+| AnimeBeauty | 1,170 |
+| AnimeBeauty1 | 95 |
+| AnimeBeauty2 | 135 |
+| AnimeBeauty3 | 92 |
+| AnimeBeauty | 1,170 |
+| AnimeBeauty1 | 95 |
+| AnimeBeauty2 | 135 |
+| AnimeBeauty3 | 92 |
+| AnimeBeauty | 1,170 |
+| AnimeBeauty1 | 95 |
+| AnimeBeauty2 | 135 |
+| AnimeBeauty3 | 92 |
+| AnimeBeauty | 1,170 |
+| AnimeBeauty1 | 95 |
+| AnimeBeauty2 | 135 |
+
+
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
