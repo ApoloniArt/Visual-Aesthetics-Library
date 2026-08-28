@@ -26,7 +26,7 @@
 | JDreamLoFi | 50 |
 
 ## [APOLONIART-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Styles.jpg) [Contains NSFW Imagery]
-1 Categories | 906 Captioned Pairs
+14 Categories | 906 Captioned Pairs
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
