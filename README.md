@@ -8,7 +8,7 @@ You can also utilise my ApoGalleria **sibling nodes** to convert any/all caption
 
 ## Instant styles, subjects & aesthetics — searchable, editable, and ready to run.
 
-My library is an ever growing collection of reference images, captioned specifically for Ideogram 4. **You are not buying the images** — they're purely a visual reference for the caption. *What you're buying is the description itself*: a precise, reusable breakdown of style, lighting, composition and subject, that you can run instantly or edit to make your own.
+My library is an ever growing collection of reference images, captioned specifically for Ideogram 4. **You are not buying the images** — they're purely a visual reference to extract a descriptive caption. *What you're buying is the caption itself*: a precise, reusable breakdown of style, lighting, composition and subject, that you can run instantly or edit to make your own.
 
 **Visual Aesthetics Library** is built by, and for use with my:
 
