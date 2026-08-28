@@ -50,7 +50,7 @@
 | WuGuanzhong | 67 |
 
 ## [JAPAN-GRAVURE](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Japan-Gravure.jpg) [Contains NSFW Imagery]
-15 Categories | 5219 Captioned Pairs
+57 Categories | 20,024 Captioned Pairs
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
