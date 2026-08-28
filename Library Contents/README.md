@@ -2,7 +2,7 @@
 ### A breakdown of each sub-folder's contents, the categories contained within, and number of Captioned reference pairs for each category.
 
 ## [ANIME-INFLUENCER](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Anime-Influencer.jpg)
-**4 Categories | 1492 Captioned Pairs**
+### **4 Categories | 1492 Captioned Pairs**
 
 | Category | Captioned Pairs |
 |---|---|
