@@ -4,9 +4,7 @@
 ## ANIME-INFLUENCER
 4 Categories | 1492 Captioned Pairs
 
-![ApoGalleria](assets/Anime-Influencer.jpg)
-
-| Category | Captioned Pairs |
+| Category | Captioned Pairs | ![ApoGalleria](assets/Anime-Influencer.jpg)
 |---|---|
 | AnimeBeauty | 1,170 |
 | AnimeBeauty1 | 95 |
