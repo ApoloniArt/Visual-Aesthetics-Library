@@ -11,7 +11,7 @@
 | AnimeBeauty2 | 135 |
 | AnimeBeauty3 | 92 |
 
-## [APOLINIART-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Girls.jpg) [Contains NSFW Imagery]
+## [APOLONIART-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Girls.jpg) [Contains NSFW Imagery]
 15 Categories | 5219 Captioned Pairs
 
 | Category | Captioned Pairs | Category | Captioned Pairs
@@ -25,6 +25,18 @@
 | JDreamBokeh | 191 | WildChildRetro | 337 |
 | JDreamLoFi | 50 |
 
+## [APOLONIART-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Styles.jpg) [Contains NSFW Imagery]
+1 Categories | 906 Captioned Pairs
+
+| Category | Captioned Pairs | Category | Captioned Pairs
+|---|---|---|---|
+| 1nspirationHQ | 162 | Damascus | 33 |
+| AnimalVectorArt | 32 | Dragons | 78 |
+| Apolographic | 116 | DrMartens | 58 |
+| BronzeStatue | 66 | GasMask | 20 |
+| Charcoal | 74 | PlaneWreckage | 57 |
+| Copper | 104 | Pripyat | 48 |
+| CrimeScene | 20 | TrainWreckage | 38 |
 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
