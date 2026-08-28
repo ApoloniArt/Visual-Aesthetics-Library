@@ -1,4 +1,4 @@
-# Visual Aesthetics Library
+# ✨Visual Aesthetics Library✨
 
 I adore Ideogram 4, it's compositional power and image quality is unmatched in my opinion. I'm also a purist and control freak.....I want complete creative license on every level.
 So I have dedicated the last couple of months creating ***<ins>Visual Aesthetics Library</ins>*** to satiate my NEW custom node suite **[ApoGalleria](#)** Both are personal projects to fill my exact needs.  
