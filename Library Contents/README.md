@@ -13,7 +13,7 @@
 | AnimeBeauty2 | 135 |
 | AnimeBeauty3 | 92 |
 
-## APOLONIART-GIRLS
+## APOLONIART-GIRLS [Contains NSFW Imagery]
 15 Categories | 5219 Captioned Pairs
 
 ![ApoGalleria](assets/ApoloniArt-Girls.jpg)
