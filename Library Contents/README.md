@@ -16,9 +16,9 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
-| BaroqueGoddess | 21 | JDreamUrban | 1305 |
-| HotGirls | 401 | KDreamLux | 438 |
-| HugeBreasts | 291 | KDreamUrban | 374 |
+| BaroqueGoddess | 21 | JDreamUrban | 1303 |
+| HotGirls | 398 | KDreamLux | 438 |
+| HugeBreasts | 291 | KDreamUrban | 373 |
 | JapanRetroErotica | 144 | LouisaK | 402 |
 | JDream | 608 | RudeGirls | 100 |
 | JDreamBigBreasts | 143 | WildChild | 420 |
