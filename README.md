@@ -60,14 +60,15 @@ Each folder below is the main collection, with sub-folders and current number of
 
 ## 📦 Requirements
 
-To use any library as intended, you'll need:
+To use my library as intended, you'll need:
 
-1. **[ApoGalleria](#)** *(link coming soon)* — the node that reads these libraries and lets you browse, lock, edit, and export entries.
-2. The matching prompt-builder or text-encode node for that library's architecture (e.g. Kijai's Ideogram4 Prompt Builder from ComfyUI-KJNodes for the Ideogram 4.0 library — see that library's own README for details).
+1. **[ApoGalleria](#)** *(link coming soon)* — My custom node that stores, indexes and reads this library, and lets you browse, lock, edit, and export entries.
+2. My custom sibling nodes also contained within **ApoGalleria**. These expand the use of Visual Aesthetics Library 10-fold, so all Ideo4 captions can  be converted for use on alternate architectures.
+3. The matching prompt-builder or text-encode node for that library's architecture (e.g. Kijai's Ideogram4 Prompt Builder from ComfyUI-KJNodes for the Ideogram 4.0 library — see that library's own README for details).
 
-## 💬 Get a Library
+## 💬 Get the only Library you'll ever need
 
-These libraries are available for purchase directly from me. Join my Discord and hit me up to get access:
+My library is exclusively available for purchase directly from me. Join my Discord and hit me up to get access:
 
 ### 👉 [ApoloniArt Discord](https://discord.gg/XDExAUzuZp)
 
