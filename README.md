@@ -1,7 +1,7 @@
 # Visual Aesthetics Library
 
 I adore Ideogram 4, it's compositional power and image quality is unmatched in my opinion. I'm also a purist and control freak.....I want complete creative license on every level.
-So I have dedicated the last couple of months creating ***<u>Visual Aesthetics Library</u>*** to satiate my NEW custom node **[ApoGalleria](#)**, both personal projects to fill my exact needs. 
+So I have dedicated the last couple of months creating <u>Visual Aesthetics Library</u> to satiate my NEW custom node **[ApoGalleria](#)**, both personal projects to fill my exact needs. 
 The largest image aesthetics library I ever created. My Library contains over 50,000 images captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
 ### A fully expandable, colossal collection of ready-to-go generational ideas, right at your fingertips!
 ![ApoGalleria](assets/ApoGalleria.jpg)
