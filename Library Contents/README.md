@@ -5,6 +5,7 @@
 4 Categories | 1492 Captioned Pairs
 
 ![ApoGalleria](assets/Anime-Influencer.jpg)
+
 | Collection | Sub-Folders | Total Image/Captions |
 |---|---|---|
 | Anime Influencer | 4 | 1,492 |
