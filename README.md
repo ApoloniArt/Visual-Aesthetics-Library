@@ -25,7 +25,7 @@ Each folder below is the main collection, with sub-folders and current number of
 
 | Collection | Sub-Folders | Total |
 |---|---|---|
-| [Ideogram 4.0](./Ideogram%204.0) | Structured JSON | ✅ Available |
+| Anime Influencer | 4 | 1494 |
 | Flux2 | Structured JSON | 🔜 Planned |
 | Qwen-Image | Natural language | 🔜 Planned |
 | Z-Image Turbo | Natural language | 🔜 Planned |
