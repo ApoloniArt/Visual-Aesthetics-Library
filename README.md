@@ -37,14 +37,14 @@ Each folder below is the main collection, with sub-folders and current number of
 ## Current total as of 28/08/2026
 ![ApoGalleria](assets/Current%20Total.png)
 
-## 🔍 What's Inside my Library
+## 🔍 What's Inside my Library?
 
 - **50,000+ Image & caption pairs** — the image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON).
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
 - **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA.
 - **Example dataset** — I have provided a non-cherry-picked sample folder so you can preview caption quality before purchasing.
 
-## ✨ Why Use These Libraries
+## ✨ Why use my Library?
 
 - **Never run out of ideas.** Search for a style, subject, or mood and you've got a ready-to-run starting point.
 - **Mix and match.** Like the lighting of one image but not the subject? Open it in ApoGalleria, live-edit the parts you want, keep the rest, and pass it straight to output.
