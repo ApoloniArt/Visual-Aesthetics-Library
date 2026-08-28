@@ -18,23 +18,17 @@
 
 ![ApoGalleria](assets/ApoloniArt-Girls.jpg)
 
-| Category | Captioned Pairs |
-|---|---|
-| AnimeBeauty | 1,170 |
-| AnimeBeauty1 | 95 |
-| AnimeBeauty2 | 135 |
+| Category | Captioned Pairs | Category | Captioned Pairs
+|---|---|---|---|
+| AnimeBeauty | 1,170 | AnimeBeauty2 | 135 |
+| AnimeBeauty1 | 95 | AnimeBeauty2 | 135 |
+| AnimeBeauty2 | 135 | AnimeBeauty2 | 135 |
+| AnimeBeauty3 | 92 | AnimeBeauty2 | 135 |
+| AnimeBeauty | 1,170 | AnimeBeauty2 | 135 |
+| AnimeBeauty1 | 95 | AnimeBeauty2 | 135 |
+| AnimeBeauty2 | 135 | AnimeBeauty2 | 135 |
 | AnimeBeauty3 | 92 |
-| AnimeBeauty | 1,170 |
-| AnimeBeauty1 | 95 |
-| AnimeBeauty2 | 135 |
-| AnimeBeauty3 | 92 |
-| AnimeBeauty | 1,170 |
-| AnimeBeauty1 | 95 |
-| AnimeBeauty2 | 135 |
-| AnimeBeauty3 | 92 |
-| AnimeBeauty | 1,170 |
-| AnimeBeauty1 | 95 |
-| AnimeBeauty2 | 135 |
+
 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
