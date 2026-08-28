@@ -20,14 +20,14 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs
 |---|---|---|---|
-| BaroqueGoddess | 21 | HotGirls | 401 |
-| HugeBreasts | 291 | JapanRetroErotica | 144 |
-| AnimeBeauty2 | 135 | AnimeBeauty2 | 135 |
-| AnimeBeauty3 | 92 | AnimeBeauty2 | 135 |
-| AnimeBeauty | 1,170 | AnimeBeauty2 | 135 |
-| AnimeBeauty1 | 95 | AnimeBeauty2 | 135 |
-| AnimeBeauty2 | 135 | AnimeBeauty2 | 135 |
-| AnimeBeauty3 | 92 |
+| BaroqueGoddess | 21 | JDreamUrban | 1305 |
+| HotGirls | 401 | KDreamLux | 438 |
+| HugeBreasts | 291 | KDreamUrban | 374 |
+| JapanRetroErotica | 144 | LouisaK | 402 |
+| JDream | 608 | RudeGirls | 100 |
+| JDreamBigBreasts | 143 | WildChild | 420 |
+| JDreamBokeh | 191 | WildChildRetro | 337 |
+| JDreamLoFi | 50 |
 
 
 
