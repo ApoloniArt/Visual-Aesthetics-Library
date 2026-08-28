@@ -35,8 +35,8 @@ Each folder below is the main collection, with sub-folders and current number of
 | Pinterest-Style | 55 | 8,273 |
 | Pinterest-Unique | 55 | 1,101 |
 
-## Current total as of 28/08/2026
 ![ApoGalleria](assets/Current%20Total.png)
+## Current total as of 28/08/2026
 
 ## 🔍 What's Inside my Library
 
