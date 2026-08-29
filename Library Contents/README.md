@@ -135,20 +135,20 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
-| 1InspirationHQ | 1445 | DreamyDoll | 32 | JPDelhomme | 52 | RetroSignage | 250 |
-| Architecture | 311 | FilmPosterArt | 7 | MattieuForichon | 125 | RetroTech | 29 | 
-| ArtDeco | 147 | Food | 25 | MetalSignage | 50 | RetroToys | 6 | 
-| AstridXVos | 292 | FutureMecha | 11 | Music | 34 | Robots | 81 | 
-| BeautifulScenery | 505 | FutureTech | 45 | MusicArt | 41 | Sculpture | 34 | 
-| Brutalist | 40 | Ghostly | 66 | NeonSignage | 23 | Skeletons | 18 | 
-| Caricatures | 144 | Glitch | 24 | NewSpecies | 90 | Space | 12 | 
-| ClayCreatures | 152 | Horror | 216 | OdiumRealm | 196 | Sparkle | 57 | 
-| CoolDudes | 12 | Illustration | 344 | OilPainting | 231 | SpectrumFog | 328 | 
-| CrossStitchPixel | 144 | Industrial | 123 | PaoloMariotti | 49 | StarWars | 36 | 
-| CustomTransport | 97 | JapanPopArt | 54 | PocketWatch | 33 | Surreal | 9 | 
-| CuteCreatures | 166 | JasonBrooks | 589 | PosterSignage | 15 | Textures | 278 | 
-| CuteDoll | 97 | JohnPirman | 19 | RaveFlyers | 42 | Watercolour | 246 | 
-| CuteGirls | 647 | JordiLanbada | 122 | Retro8bit | 32 |
+| Algorithms | 32 | DynaMyte | 14 | Micronytes | 20 | SigmaticDrones | 17 |
+| AmbroPunk | 10 | ElekTronic | 20 | MoodyThunderpunk | 19 | SOLAR | 15 | 
+| AstralAssault | 26 | Enigmatism | 20 | NeonCyberGrunge | 39 | SpectrumSpectrals | 10 | 
+| BLU | 29 | ExperimentaCerebri | 20 | NextWorld | 20 | SteampunkSentinels | 36 | 
+| BrightBlight | 19 | ExploringDreams | 20 | OmniRacers | 25 | ThunderPunk | 40 | 
+| Carbonite | 20 | FluorescentFacade | 9 | PaintedProphets | 19 | TinyTitans | 27 | 
+| ColourPop | 28 | GrungePunk | 20 | Plastique | 10 | Traces | 12 | 
+| CoralCorps | 15 | Heartbreakers | 9 | PopLifeSocialClub | 35 | TribalTech | 17 | 
+| CoreBeta | 15 | Luminescence | 19 | RoboticDreams | 34 | Trouble | 20 | 
+| CrimsonNoir | 9 | LuxPunkBrutalism | 21 | ROTR | 15 | UltraPunkFlash | 20 | 
+| CyberGoth | 10 | LuxPunkMegalithic | 10 | SacredDefiance | 27 | VizerPunk | 20 | 
+| DarkDimensions | 20 | LuxPunkSummoning | 10 | SciFiBmovie | 24 | WannabeAkatsuki | 20 | 
+| DistantDystopia | 17 | MadCityRemnants | 18 | SettingSuns | 15 | WheatpasteWarriors | 33 | 
+| Domes | 20 | MetallurgySaints | 16 | ShatteredStars | 16 |
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
