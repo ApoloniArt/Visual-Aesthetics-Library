@@ -25,7 +25,7 @@
 | JDreamBokeh | 191 | WildChildRetro | 337 |
 | JDreamLoFi | 50 |
 
-## [APOLONIART-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Styles.jpg) [Contains NSFW Imagery]
+## [APOLONIART-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/ApoloniArt-Styles.jpg) [Contains Artistic NSFW Imagery]
 ### **14 Categories | 906 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs
