@@ -96,7 +96,7 @@
 ### **34 Categories | 10,975 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
-|---|---|---|---|---|---|
+|----|----|----|----|----|----|
 | Pinterest-AncientFantasyGirls | 602 | Pinterest-HairNoEyes | 38 | Pinterest-PinkHairGirls | 95 | 
 | AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | 
 | AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | 
