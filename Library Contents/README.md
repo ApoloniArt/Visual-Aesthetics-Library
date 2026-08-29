@@ -97,7 +97,7 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|
-| 1JapanGravureHQ | 4084 | IwasaMayuko | 86 | MizukiTama | 152 | 
+| Pinterest-AncientFantasyGirls | 602 | Pinterest-HairNoEyes | 38 | Pinterest-PinkHairGirls | 95 | 
 | AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | 
 | AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | 
 | FujiuraMegu | 355 | KanzakiTsukasa | 115 | NishidaMai | 792 | 
