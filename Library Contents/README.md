@@ -74,7 +74,7 @@
 ### **64 Categories | 1,817 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
-|---|---|---|---|---|---|---|---|---|---|
+|----|---|----|---|----|---|----|---|----|---|
 | 1MJ-InspirationHQ | 767 | MJ-Food | 15 | MJ-Memetic | 1 | MJ-Reflection | 16 |
 | MJ-2Tone | 46 | MJ-Fragments | 3 | MJ-Monochrome | 12 | MJ-Sassy | 36 | 
 | MJ-Aberration | 19 | MJ-Friends | 33 | MJ-Monolithic | 3 | MJ-Scenery | 66 | 
