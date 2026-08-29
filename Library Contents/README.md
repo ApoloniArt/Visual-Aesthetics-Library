@@ -130,6 +130,25 @@
 | CuteDoll | 97 | JohnPirman | 19 | RaveFlyers | 42 | Watercolour | 246 | 
 | CuteGirls | 647 | JordiLanbada | 122 | Retro8bit | 32 |
 
+## [PINTEREST-UNIQUE](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique.jpg)
+### **55 Categories | 1,101 Captioned Pairs**
+
+| Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
+|---|---|---|---|---|---|---|---|
+| 1InspirationHQ | 1445 | DreamyDoll | 32 | JPDelhomme | 52 | RetroSignage | 250 |
+| Architecture | 311 | FilmPosterArt | 7 | MattieuForichon | 125 | RetroTech | 29 | 
+| ArtDeco | 147 | Food | 25 | MetalSignage | 50 | RetroToys | 6 | 
+| AstridXVos | 292 | FutureMecha | 11 | Music | 34 | Robots | 81 | 
+| BeautifulScenery | 505 | FutureTech | 45 | MusicArt | 41 | Sculpture | 34 | 
+| Brutalist | 40 | Ghostly | 66 | NeonSignage | 23 | Skeletons | 18 | 
+| Caricatures | 144 | Glitch | 24 | NewSpecies | 90 | Space | 12 | 
+| ClayCreatures | 152 | Horror | 216 | OdiumRealm | 196 | Sparkle | 57 | 
+| CoolDudes | 12 | Illustration | 344 | OilPainting | 231 | SpectrumFog | 328 | 
+| CrossStitchPixel | 144 | Industrial | 123 | PaoloMariotti | 49 | StarWars | 36 | 
+| CustomTransport | 97 | JapanPopArt | 54 | PocketWatch | 33 | Surreal | 9 | 
+| CuteCreatures | 166 | JasonBrooks | 589 | PosterSignage | 15 | Textures | 278 | 
+| CuteDoll | 97 | JohnPirman | 19 | RaveFlyers | 42 | Watercolour | 246 | 
+| CuteGirls | 647 | JordiLanbada | 122 | Retro8bit | 32 |
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
