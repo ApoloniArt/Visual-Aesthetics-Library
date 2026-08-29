@@ -22,11 +22,11 @@ My library is an ever growing collection of reference images, captioned specific
 
 ## 📚 Current collections in ***Visual Aesthetics Library***
 
-Each folder below is the main collection, with sub-folders and current number of captioned images.
+Each folder below is the main collection, with category folders and current number of captioned pairs.
 
 Browse the **[Folder Contents](https://github.com/ApoloniArt/Visual-Aesthetics-Library/tree/main/Library%20Contents)** here.
 
-| Collection | Sub-Folders | Total Image/Captions |
+| Collection | Category | Captioned Pairs |
 |---|---|---|
 | Anime Influencer | 4 | 1,492 |
 | ApoloniArt-Girls | 15 | 5,219 |
