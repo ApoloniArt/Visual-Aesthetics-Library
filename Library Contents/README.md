@@ -92,6 +92,25 @@
 | MJ-Fairy | 3 | MJ-Lonely | 17 | MJ-PopArt | 10 | MJ-Vehicular | 13 | 
 | MJ-Figurines | 41 | MJ-Lore | 13 | MJ-Rebel | 1 | MJ-Waifu | 28 | 
 
+## [PINTEREST-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Girls.jpg) [Contains NSFW Imagery]
+### **34 Categories | 10,975 Captioned Pairs**
+
+| Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
+|---|---|---|---|---|---|
+| 1JapanGravureHQ | 4084 | IwasaMayuko | 86 | MizukiTama | 152 | 
+| AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | 
+| AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | 
+| FujiuraMegu | 355 | KanzakiTsukasa | 115 | NishidaMai | 792 | 
+| Gravure-X | 387 | KasumiRisa | 335 | OnoueWakaba | 67 | 
+| HamasakiRio | 306 | KawaguchiHaruna | 160 | RaeLilBlack | 204 | 
+| HanedaAi | 156 | KiriyamaRui | 178 | ReikoKobayakawa | 235 | 
+| HarukiSato | 220 | KishiAsuka | 397 | SakuraiTomoka | 202 | 
+| HarunaHana | 259 | KitagawaHitomi | 137 | SamayaAi | 479 | 
+| HatsuneMinori | 567 | lenfriedom | 183 | SasakiNozomi | 254 | 
+| HibikiOshimi | 176 | ManaSakura | 298 | SayaSong | 328 |
+| HiraharaKokoro | 78 | MariaTainaka | 49 | ShinozakiAi | 538 |
+
+
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
