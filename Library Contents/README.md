@@ -75,22 +75,22 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|---|---|
-| 1JapanGravureHQ | 4084 | IwasaMayuko | 86 | MizukiTama | 152 | SuzukiSatomi | 649 | SuzukiSatomi | 649 |
-| AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | TakizawaNonami | 365 | SuzukiSatomi | 649 |
-| AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | TanakaHitomi | 771 | SuzukiSatomi | 649 |
-| FujiuraMegu | 355 | KanzakiTsukasa | 115 | NishidaMai | 792 | TsugiharaKana | 342 | SuzukiSatomi | 649 |
-| Gravure-X | 387 | KasumiRisa | 335 | OnoueWakaba | 67 | UeharaAi | 311 |
-| HamasakiRio | 306 | KawaguchiHaruna | 160 | RaeLilBlack | 204 | UeharaKaera | 97 |
-| HanedaAi | 156 | KiriyamaRui | 178 | ReikoKobayakawa | 235 | WillyHo | 212 |
-| HarukiSato | 220 | KishiAsuka | 397 | SakuraiTomoka | 202 | WuMuxi | 81 |
-| HarunaHana | 259 | KitagawaHitomi | 137 | SamayaAi | 479 | YabukiHaruna | 614 |
-| HatsuneMinori | 567 | lenfriedom | 183 | SasakiNozomi | 254 | YamanakaMayumi | 875 |
-| HibikiOshimi | 176 | ManaSakura | 298 | SayaSong | 328 | YanaseSaki | 90 |
-| HiraharaKokoro | 78 | MariaTainaka | 49 | ShinozakiAi | 538 | YumeKana | 473 |
-| IrieSaaya | 360 | MatsuganeYoko | 806 | ShirakawaMai | 138 |
-| IshiharaSatomi | 63 | MatsuokaChina | 71 | ShizukuKoto | 90 |
-| IsoyamaSaya | 746 | MitsuDan | 172 | SuzukiKoharu | 60 |
-
+| 1MJ-InspirationHQ | 767 | MJ-Food | 15 | MJ-Memetic | 1 | MJ-Reflection | 16 |
+| MJ-2Tone | 46 | MJ-Fragments | 3 | MJ-Monochrome | 12 | MJ-Sassy | 36 | 
+| MJ-Aberration | 19 | MJ-Friends | 33 | MJ-Monolithic | 3 | MJ-Scenery | 66 | 
+| MJ-Animal | 22 | MJ-Fruity | 5 | MJ-MontyPythonEsque | 8 | MJ-Scribble | 6 | 
+| MJ-Architecture | 3 | MJ-Funny | 3 | MJ-Neon | 12 | MJ-Sculpture | 17 | 
+| MJ-BikerGirl | 33 | MJ-Futura | 21 | MJ-Niji | 21 | MJ-Silhouette | 1 | 
+| MJ-Bladerunner | 106 | MJ-Geometric | 2 | MJ-Object | 1 | MJ-Space | 14 | 
+| MJ-Blur | 4 | MJ-Glitch | 12 | MJ-Opacity | 7 | MJ-Spectrum | 7 | 
+| MJ-Chibish | 8 | MJ-Glow | 24 | MJ-Overlay | 15 | MJ-Splash | 1 | 
+| MJ-Creepy | 33 | MJ-Gorillaz | 7 | MJ-Palette | 23 | MJ-Sticky | 3 | 
+| MJ-Dreamy | 19 | MJ-Hero | 16 | MJ-Particles | 12 | MJ-Surreal | 52 | 
+| MJ-DutchAngle | 6 | MJ-Horror | 6 | Mj-Pathway | 21 | MJ-Tech | 8 | 
+| MJ-Emoji | 14 | MJ-IceWave | 5 | MJ-Peekaboo | 13 | MJ-Technical | 6 | 
+| MJ-Enemies | 2 | MJ-Logo | 1 | MJ-Person | 47 | MJ-TinyCute | 27 | 
+| MJ-Fairy | 3 | MJ-Lonely | 17 | MJ-PopArt | 10 | MJ-Vehicular | 13 | 
+| MJ-Figurines | 41 | MJ-Lore | 13 | MJ-Rebel | 1 | MJ-Waifu | 28 | 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
 
