@@ -75,22 +75,22 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
-| 1MJ-InspirationHQ | 767 | MJ-Food | 15 | MJ-Memetic | 1 | MJ-Reflection | 16 |
-| MJ-2Tone | 46 | MJ-Fragments | 3 | MJ-Monochrome | 12 | MJ-Sassy | 36 | 
-| MJ-Aberration | 19 | MJ-Friends | 33 | MJ-Monolithic | 3 | MJ-Scenery | 66 | 
-| MJ-Animal | 22 | MJ-Fruity | 5 | MJ-MontyPythonEsque | 8 | MJ-Scribble | 6 | 
-| MJ-Architecture | 3 | MJ-Funny | 3 | MJ-Neon | 12 | MJ-Sculpture | 17 | 
-| MJ-BikerGirl | 33 | MJ-Futura | 21 | MJ-Niji | 21 | MJ-Silhouette | 1 | 
-| MJ-Bladerunner | 106 | MJ-Geometric | 2 | MJ-Object | 1 | MJ-Space | 14 | 
-| MJ-Blur | 4 | MJ-Glitch | 12 | MJ-Opacity | 7 | MJ-Spectrum | 7 | 
-| MJ-Chibish | 8 | MJ-Glow | 24 | MJ-Overlay | 15 | MJ-Splash | 1 | 
-| MJ-Creepy | 33 | MJ-Gorillaz | 7 | MJ-Palette | 23 | MJ-Sticky | 3 | 
-| MJ-Dreamy | 19 | MJ-Hero | 16 | MJ-Particles | 12 | MJ-Surreal | 52 | 
-| MJ-DutchAngle | 6 | MJ-Horror | 6 | Mj-Pathway | 21 | MJ-Tech | 8 | 
-| MJ-Emoji | 14 | MJ-IceWave | 5 | MJ-Peekaboo | 13 | MJ-Technical | 6 | 
-| MJ-Enemies | 2 | MJ-Logo | 1 | MJ-Person | 47 | MJ-TinyCute | 27 | 
-| MJ-Fairy | 3 | MJ-Lonely | 17 | MJ-PopArt | 10 | MJ-Vehicular | 13 | 
-| MJ-Figurines | 41 | MJ-Lore | 13 | MJ-Rebel | 1 | MJ-Waifu | 28 | 
+| 1InspirationHQ | 767 | Food | 15 | Memetic | 1 | Reflection | 16 |
+| 2Tone | 46 | Fragments | 3 | Monochrome | 12 | Sassy | 36 | 
+| Aberration | 19 | Friends | 33 | Monolithic | 3 | Scenery | 66 | 
+| Animal | 22 | Fruity | 5 | MontyPythonEsque | 8 | Scribble | 6 | 
+| Architecture | 3 | Funny | 3 | Neon | 12 | Sculpture | 17 | 
+| BikerGirl | 33 | Futura | 21 | Niji | 21 | Silhouette | 1 | 
+| Bladerunner | 106 | Geometric | 2 | Object | 1 | Space | 14 | 
+| Blur | 4 | Glitch | 12 | Opacity | 7 | Spectrum | 7 | 
+| Chibish | 8 | Glow | 24 | Overlay | 15 | Splash | 1 | 
+| Creepy | 33 | Gorillaz | 7 | Palette | 23 | Sticky | 3 | 
+| Dreamy | 19 | Hero | 16 | Particles | 12 | Surreal | 52 | 
+| DutchAngle | 6 | Horror | 6 | Pathway | 21 | Tech | 8 | 
+| Emoji | 14 | IceWave | 5 | Peekaboo | 13 | Technical | 6 | 
+| Enemies | 2 | Logo | 1 | Person | 47 | TinyCute | 27 | 
+| Fairy | 3 | Lonely | 17 | PopArt | 10 | Vehicular | 13 | 
+| Figurines | 41 | Lore | 13 | Rebel | 1 | Waifu | 28 | 
 
 ## [PINTEREST-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Girls.jpg) [Contains NSFW Imagery]
 ### **34 Categories | 10,975 Captioned Pairs**
