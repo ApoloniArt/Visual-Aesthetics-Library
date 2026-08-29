@@ -97,18 +97,18 @@
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |----|----|----|----|----|----|
-| Pinterest-AncientFantasyGirls | 602 | Pinterest-HairNoEyes | 38 | Pinterest-PinkHairGirls | 95 | 
-| AoiTsukasa | 238 | JiuJiu | 76 | MizukiYume | 131 | 
-| AzumiRen | 107 | KakiuchiRikako | 228 | MurakamiRisa | 81 | 
-| FujiuraMegu | 355 | KanzakiTsukasa | 115 | NishidaMai | 792 | 
-| Gravure-X | 387 | KasumiRisa | 335 | OnoueWakaba | 67 | 
-| HamasakiRio | 306 | KawaguchiHaruna | 160 | RaeLilBlack | 204 | 
-| HanedaAi | 156 | KiriyamaRui | 178 | ReikoKobayakawa | 235 | 
-| HarukiSato | 220 | KishiAsuka | 397 | SakuraiTomoka | 202 | 
-| HarunaHana | 259 | KitagawaHitomi | 137 | SamayaAi | 479 | 
-| HatsuneMinori | 567 | lenfriedom | 183 | SasakiNozomi | 254 | 
-| HibikiOshimi | 176 | ManaSakura | 298 | SayaSong | 328 |
-| HiraharaKokoro | 78 | MariaTainaka | 49 | ShinozakiAi | 538 |
+| AncientFantasyGirls | 602 | HairNoEyes | 38 | PinkHairGirls | 95 | 
+| Bella | 64 | HighAngleGirls | 101 | PlatinumBlondeGirls | 320 | 
+| BigBreastGirls | 1988 | HotAlienGirls | 35 | ProfessionalGirls | 25 | 
+| BikiniGirls | 474 | HotAnimeGirls | 75 | RearViewGirl | 69 | 
+| BlackHairGirls | 289 | HotGirls | 2133 | RedheadGirls | 174 | 
+| BodyPoseGirls | 244 | LatexGirls | 134 | SexyTshirts | 9 | 
+| Cleopatra | 92 | LesbianGirls | 196 | SmokingGirls | 212 | 
+| EbonyGirls | 301 | Lipsbite | 164 | UlzzangGirls | 396 | 
+| FemaleErotica | 1065 | LowAngleGirls | 154 | UniformGirls | 156 | 
+| FitnessErotica | 180 | MedievalGirls | 929 | WarriorGirls | 44 | 
+| Geisha | 94 | Medusa | 13 |
+| GothGirls | 65 | ObsidianGirls | 45 |
 
 
 ## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
