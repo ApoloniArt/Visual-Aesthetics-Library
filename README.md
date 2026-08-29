@@ -19,7 +19,7 @@ My library is an ever growing collection of reference images, captioned specific
 - 🖼️ **[ApoGalleria](#)** — My 🆕 custom ComfyUI node suite.
 - 🎨 **[ApoStudio](https://github.com/ApoloniArt/ApoStudio)** — My LLM powered node suite, and custom system prompts used to generate every caption across this entire library.
 
-### Browse the library in **ApoGalleria** → edit or lock fields → pass to output → generate 🫵
+### Browse my library for inspiration in **ApoGalleria** → edit or lock fields → pass to output → generate 🫵
 
 ---
 
