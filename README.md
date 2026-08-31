@@ -70,7 +70,7 @@ Browse the **[Folder Contents](https://github.com/ApoloniArt/Visual-Aesthetics-L
 
 To use my library as intended, you'll need:
 
-1. **[ApoGalleria](#)** *(link coming soon)* — My custom node that stores, indexes and reads this library, and lets you browse, lock, edit, and export entries.
+1. **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** — My custom node that stores, indexes and reads this library, and lets you browse, lock, edit, and export entries.
 2. My custom sibling nodes also contained within **ApoGalleria**. These expand the use of Visual Aesthetics Library 10-fold, so all Ideo4 captions can  be converted for use on alternate architectures.
 3. The matching prompt-builder or text-encode node for that library's architecture (e.g. Kijai's Ideogram4 Prompt Builder from ComfyUI-KJNodes for my main Ideogram 4.0 library).
 4. Download the library and place inside ApoGalleria's **Library** folder located within the node directory.
@@ -79,7 +79,7 @@ To use my library as intended, you'll need:
 
 My library is exclusively available for purchase directly from me. Join my Discord and hit me up to get access:
 
-### 👉 [ApoloniArt Discord](https://discord.gg/XDExAUzuZp)
+### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
 ---
 
