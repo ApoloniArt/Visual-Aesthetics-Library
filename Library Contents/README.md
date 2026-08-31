@@ -162,9 +162,9 @@ You can also utilise my ApoGalleria **sibling nodes** to convert any/all caption
 
 My library is exclusively available for purchase directly from me. Join my Discord and hit me up to get access:
 
-### 👉 [ApoloniArt Discord](https://discord.gg/XDExAUzuZp)
+### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
 ---
 
-*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and this library, I never have to worry again.
+*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and **Visual Aesthetics Library** I never have to worry again.
 Neither will you 💜
