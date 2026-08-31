@@ -111,7 +111,7 @@
 | GothGirls | 65 | ObsidianGirls | 45 |
 
 ## [PINTEREST-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Styles.jpg)
-### **55 Categories | 16,546 Captioned Pairs**
+### **55 Categories | 8,273 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
