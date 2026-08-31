@@ -150,7 +150,7 @@
 | DistantDystopia | 17 | MadCityRemnants | 18 | SettingSuns | 15 | WheatpasteWarriors | 33 | 
 | Domes | 20 | MetallurgySaints | 16 | ShatteredStars | 16 |
 
-## Current total: 50,515 | Current size: 9.6gb [as of 28/08/2026]
+## Current total: 50,516 | Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
 
