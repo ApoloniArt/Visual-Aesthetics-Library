@@ -27,7 +27,7 @@ My library is an ever growing collection of reference images, captioned specific
 
 Each folder below is the main collection, with category folders and current number of captioned pairs.
 
-Browse the **[Collections](https://github.com/ApoloniArt/Visual-Aesthetics-Library/tree/main/Library%20Contents)** here.
+Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-Library/tree/main/Library%20Contents)** here.
 
 | Collection | Category | Captioned Pairs |
 |---|---|---|
