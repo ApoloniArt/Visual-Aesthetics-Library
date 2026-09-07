@@ -29,7 +29,7 @@ Each folder below is the main collection, with category folders and current numb
 
 Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-Library/tree/main/Library%20Contents)** here.
 
-| Collection | Category | Captioned Pairs |
+| Collection | Categories | Captioned Pairs |
 |---|---|---|
 | Anime Influencer | 4 | 1,492 |
 | ApoloniArt-Girls | 15 | 5,219 |
@@ -40,7 +40,8 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 | Pinterest-Girls | 34 | 11,078 |
 | Pinterest-Style | 55 | 8,273 |
 | Pinterest-Unique | 55 | 1,101 |
-## Current total: 50,619 | Current size: 9.6gb [as of 07/09/2026]
+| Pinterest-Unique1 | 57 | 6,323 |
+## Current total: 56,942 | Current size: 9.6gb [as of 07/09/2026]
 ![ApoGalleria](assets/Current%20Total.png)
 
 ## 🔍 What's Inside my Library?
