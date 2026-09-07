@@ -85,5 +85,5 @@ My colossal library is available exclusively for purchase directly from me. Join
 
 ---
 
-*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and this library, I never have to worry again.
+*Made with love by [ApoloniArt](https://github.com/ApoloniArt) because I wanted inspiration on tap.* With **ApoGalleria** and <ins>Visual Aesthetics Library</ins>, I never have to worry again.
 Neither will you 💜
