@@ -32,7 +32,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 | Collection | Categories | Captioned Pairs |
 |---|---|---|
 | Anime Influencer | 4 | 1,492 |
-| ApoloniArt-Girls | 15 | 5,219 |
+| ApoloniArt-Girls | 15 | 5,220 |
 | ApoloniArt-Style | 14 | 906 |
 | Artist-Styles | 5 | 709 |
 | Japan-Gravure | 57 | 20,024 |
