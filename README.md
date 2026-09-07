@@ -8,7 +8,7 @@ I have decided to offer my entire **<ins>Visual Aesthetics Library</ins>** as a 
 ### The largest image aesthetics library I ever created. My Library contains over 60,000+ diverse image references, each captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
 ### A fully expandable, colossal collection of ready-to-go generational ideas, right at your fingertips!
 ![ApoGalleria](assets/ApoGalleria.jpg)
-Utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~50,000 captions to around ~500,000 generational possibilities.
+Utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~60,000 captions to around ~600,000 generational possibilities.
 
 ## Instant styles, subjects & aesthetics — searchable, editable, and ready to run.
 
