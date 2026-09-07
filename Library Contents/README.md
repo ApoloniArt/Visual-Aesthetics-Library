@@ -179,7 +179,7 @@
 |---|---|---|---|---|---|---|---|
 | MegaStructures | 1504 |
 
-## Current Captioned Pairs: 59,035 [118,070 files] Current size: 10.6gb [as of 28/08/2026]
+## Updated Captioned Pairs: 59,035 [118,070 files] Current size: 10.6gb [as of 28/08/2026]
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~50,000 captions to around ~500,000</ins> generational possibilities.
 
