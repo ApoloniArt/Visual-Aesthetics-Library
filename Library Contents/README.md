@@ -188,7 +188,7 @@ You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleri
 
 ## 💬 Get the only Library you'll ever need
 
-My library is exclusively available for purchase directly from me. Join my Discord and hit me up to get access:
+My library is exclusively available directly from me. Join my Discord and hit me up to get access:
 
 ### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
