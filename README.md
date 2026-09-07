@@ -75,7 +75,7 @@ To use my library as intended, you'll need:
 1. **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** — My custom node that stores, indexes and reads this library, and lets you browse, lock, edit, and export entries.
 2. My custom sibling nodes also contained within **ApoGalleria**. These expand the use of Visual Aesthetics Library 10-fold, so all Ideo4 captions can  be converted for use on alternate architectures.
 3. The matching prompt-builder or text-encode node for that library's architecture (e.g. Kijai's Ideogram4 Prompt Builder from ComfyUI-KJNodes for my main Ideogram 4.0 library).
-4. Download the [test] dataset and place inside ApoGalleria's **Library** folder located within the node directory.
+4. Download the [Example Dataset](https://github.com/ApoloniArt/Visual-Aesthetics-Library/tree/main/Example%20Dataset) and place inside ApoGalleria's **Library** folder located within the node directory, this will allow you to test the captions and functionality before committing to my behemoth.
 
 ## 💬 Get the only Library you'll ever need
 
