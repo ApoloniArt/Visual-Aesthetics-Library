@@ -176,8 +176,8 @@
 ## [PINTEREST-UNIQUE2](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique2.jpg)
 ### **2 Categories | 2,411 Captioned Pairs**
 
-| Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
-|---|---|---|---|---|---|---|---|
+| Category | Captioned Pairs | Category | Captioned Pairs |
+|---|---|---|---|
 | MegaStructures | 1504 | Interiors | 907 |
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~60,000 captions to around ~600,000</ins> generational possibilities.
