@@ -41,7 +41,8 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 | Pinterest-Style | 55 | 8,273 |
 | Pinterest-Unique | 55 | 1,101 |
 | Pinterest-Unique1 | 57 | 6,323 |
-## Current total: 56,942 | Current size: 9.6gb [as of 07/09/2026]
+| Pinterest-Unique2 | 1 | 1,504 |
+## Current Captioned Pairs: 58,446 [116,892 files] Current size: 9.6gb [as of 28/08/2026]
 ![ApoGalleria](assets/Current%20Total.png)
 
 ## 🔍 What's Inside my Library?
