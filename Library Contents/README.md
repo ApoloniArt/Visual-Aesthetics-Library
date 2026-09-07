@@ -171,7 +171,7 @@
 | Colourful | 253 | MineralsCrystals | 61 | SpaceArt | 443 |
 | Creatures | 54 | Mining | 39 | SpaceBase | 181 |
 
-## Current total: 50,516 | Current size: 9.6gb [as of 28/08/2026]
+## Current total: 56,942 | Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~50,000 captions to around ~500,000</ins> generational possibilities.
 
