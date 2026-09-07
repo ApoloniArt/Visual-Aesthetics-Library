@@ -111,7 +111,7 @@
 | GothGirls | 65 | ObsidianGirls | 45 |
 
 ## [PINTEREST-STYLES](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Styles.jpg)
-### **56 Categories | 8,647 Captioned Pairs**
+### **57 Categories | 8,670 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | CuteCreatures | 166 | JasonBrooks | 589 | PosterSignage | 23 | Textures | 278 | 
 | CuteDoll | 97 | JohnPirman | 19 | RaveFlyers | 42 | Watercolour | 246 | 
 | CuteGirls | 647 | JordiLanbada | 122 | Retro8bit | 32 | Moon | 19 |
+| ProductAdvertising | 23 | JordiLanbada | 122 | Retro8bit | 32 | Moon | 19 |
 
 ## [PINTEREST-UNIQUE](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique.jpg)
 ### **55 Categories | 1,101 Captioned Pairs**
@@ -178,7 +179,7 @@
 |---|---|---|---|---|---|---|---|
 | MegaStructures | 1504 |
 
-## Current Captioned Pairs: 58,848 [116,892 files] Current size: 9.6gb [as of 28/08/2026]
+## Current Captioned Pairs: 58,871 [116,892 files] Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~50,000 captions to around ~500,000</ins> generational possibilities.
 
