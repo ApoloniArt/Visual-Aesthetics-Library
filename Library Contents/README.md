@@ -150,6 +150,27 @@
 | DistantDystopia | 17 | MadCityRemnants | 18 | SettingSuns | 15 | WheatpasteWarriors | 33 | 
 | Domes | 20 | MetallurgySaints | 16 | ShatteredStars | 16 |
 
+## [PINTEREST-UNIQUE1](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique1.jpg)
+### **57 Categories | 6,323 Captioned Pairs**
+
+| Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
+|---|---|---|---|---|---|---|---|
+| Abandoned | 127 | Curious | 33 | Moments | 80 | SpaceRetro | 133 |
+| AmericanClassic | 76 | Cyborgs | 119 | MountainRetreat | 85 | Spaceships | 155 | 
+| Architectural | 357 | Digital | 135 | Mystic | 202 | StarWars | 28 | 
+| Astronaut | 36 | Downsizing | 160 | Neon | 62 | Steampunk | 89 | 
+| Astropunk | 197 | Dreams | 115 | OneiricSurrealism | 99 | Tattoo | 14 | 
+| Autumn | 117 | Ethereal | 104 | OpenRoad | 33 | TimeTravel | 19 | 
+| BattleEternal | 90 | Exquiste | 56 | OtherWorlds | 74 | TownLight | 68 | 
+| BeCool | 58 | Food4Soul | 117 | Painting | 180 | Trains | 51 | 
+| Bikes | 22 | Fungi | 66 | Reminiscence | 60 | Unique | 53 | 
+| BionicHybrids | 14 | GenerationBeta | 66 | RetroFuturism | 138 | Utopia | 100 | 
+| BlueHoliday | 118 | ImagiScapes | 69 | Robots | 178 | VintagePosters | 145 | 
+| Brutalism | 87 | LondonBus | 65 | ScienceFiction | 401 | Wonderland | 70 | 
+| CarArt | 101 | LostWorlds | 64 | Sculpture | 206 | 
+| Colourful | 253 | MineralsCrystals | 61 | SpaceArt | 443 |
+| Creatures | 54 | Mining | 39 | SpaceBase | 181 |
+
 ## Current total: 50,516 | Current size: 9.6gb [as of 28/08/2026]
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~50,000 captions to around ~500,000</ins> generational possibilities.
