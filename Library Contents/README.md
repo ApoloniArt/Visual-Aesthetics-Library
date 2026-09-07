@@ -93,7 +93,7 @@
 | Figurines | 41 | Lore | 13 | Rebel | 1 | Waifu | 28 | 
 
 ## [PINTEREST-GIRLS](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Girls.jpg) [Contains NSFW Imagery]
-### **34 Categories | 10,975 Captioned Pairs**
+### **34 Categories | 11,078 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |----|----|----|----|----|----|
@@ -101,7 +101,7 @@
 | Bella | 64 | HighAngleGirls | 101 | PlatinumBlondeGirls | 320 | 
 | BigBreastGirls | 1988 | HotAlienGirls | 35 | ProfessionalGirls | 25 | 
 | BikiniGirls | 474 | HotAnimeGirls | 75 | RearViewGirl | 69 | 
-| BlackHairGirls | 289 | HotGirls | 2133 | RedheadGirls | 174 | 
+| BlackHairGirls | 289 | HotGirls | 2236 | RedheadGirls | 174 | 
 | BodyPoseGirls | 244 | LatexGirls | 134 | SexyTshirts | 9 | 
 | Cleopatra | 92 | LesbianGirls | 196 | SmokingGirls | 212 | 
 | EbonyGirls | 301 | Lipsbite | 164 | UlzzangGirls | 396 | 
