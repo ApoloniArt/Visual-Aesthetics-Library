@@ -65,7 +65,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 - Captioned using my [ApoStudio](https://github.com/ApoloniArt/ApoStudio) nodes, LM Studio back end server, and custom system prompts created from the official Ideo4 prompting guides.
 - **Visual Aesthetics Library** contains a mix of my own images, and images collected over a long, long time. You're buying my time, skills, and the captioning work — not the images themselves. I don't sell other people's work, only my own.
 - My library represents a colossal, dedicated captioning effort. The breakdown for scale and time invested is as follows:
-### ***Taking a conservative average of 15 seconds per caption for ~50,000 captions, total creation time for my library to date: 210 continuous GPU hours, 9 days. All done in the heat of summer. Factor in time spent generating and collecting reference images, and it is weeks of continuous work.***
+### ***Taking a conservative average of 15 seconds per caption for ~60,000 captions, total creation time for my library to date: 250 continuous GPU hours, or 10+ full days. All done in the heat of summer. Factor in time spent generating and collecting reference images, and it is weeks of continuous work.***
 - My goal is to have a captioned reference library of 100,000 pieces, covering every style imaginable.
 
 ## 📦 Requirements
@@ -75,11 +75,11 @@ To use my library as intended, you'll need:
 1. **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** — My custom node that stores, indexes and reads this library, and lets you browse, lock, edit, and export entries.
 2. My custom sibling nodes also contained within **ApoGalleria**. These expand the use of Visual Aesthetics Library 10-fold, so all Ideo4 captions can  be converted for use on alternate architectures.
 3. The matching prompt-builder or text-encode node for that library's architecture (e.g. Kijai's Ideogram4 Prompt Builder from ComfyUI-KJNodes for my main Ideogram 4.0 library).
-4. Download the library and place inside ApoGalleria's **Library** folder located within the node directory.
+4. Download the [test] dataset and place inside ApoGalleria's **Library** folder located within the node directory.
 
 ## 💬 Get the only Library you'll ever need
 
-My library is exclusively available for purchase directly from me. Join my Discord and hit me up to get access:
+My colossal library is available exclusively for purchase directly from me. Join my Discord and hit me up to get access:
 
 ### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
