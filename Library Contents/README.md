@@ -188,9 +188,9 @@ You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleri
 
 ## 💬 Get the only Library you'll ever need
 
-My [Visual Aesthetics Library](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png) is exclusively available directly from me. Join my Discord and hit me up to get access:
+My [Visual Aesthetics Library](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png) is exclusively available directly from me. 
 
-### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
+Join my Discord [ApoloniArt](https://discord.gg/XDExAUzuZp) and hit me up to get access 😘
 
 ---
 
