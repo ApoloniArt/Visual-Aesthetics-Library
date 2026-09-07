@@ -1,5 +1,4 @@
 # Visual Aesthetics Library - Categories & Collections
-Complete [Visual Aesthetics Library](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png)
 ## A breakdown of each sub-folder's contents: The categories contained within, and number of Captioned reference pairs for each category.
 ### ⚠️Updated as of 28/08/2026 | Captioned Pairs: 59,915 [119,830 files] Current size: 10.5gb
 
@@ -189,7 +188,7 @@ You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleri
 
 ## 💬 Get the only Library you'll ever need
 
-My library is exclusively available directly from me. Join my Discord and hit me up to get access:
+My [Visual Aesthetics Library](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png) is exclusively available directly from me. Join my Discord and hit me up to get access:
 
 ### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
 
