@@ -171,7 +171,7 @@
 | Colourful | 253 | MineralsCrystals | 61 | SpaceArt | 443 |
 | Creatures | 54 | Mining | 39 | SpaceBase | 181 |
 
-## [PINTEREST-UNIQUE2](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique1.jpg)
+## [PINTEREST-UNIQUE2](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Pinterest-Unique2.jpg)
 ### **1 Categories | 1,504 Captioned Pairs**
 
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
