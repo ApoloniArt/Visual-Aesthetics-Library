@@ -38,7 +38,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 | Japan-Gravure | 57 | 20,024 |
 | Midjourney | 64 | 1817 |
 | Pinterest-Girls | 34 | 11,078 |
-| Pinterest-Style | 55 | 8,273 |
+| Pinterest-Style | 60 | 8,834 |
 | Pinterest-Unique | 55 | 1,101 |
 | Pinterest-Unique1 | 57 | 6,323 |
 | Pinterest-Unique2 | 1 | 1,504 |
@@ -47,7 +47,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 
 ## 🔍 What's Inside my Library?
 
-- **50,000+ Image & caption pairs** — the [.jpg] image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON saved as a sidecar [.txt] file).
+- **60,000+ Image & caption pairs** — the [.jpg] image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON saved as a sidecar [.txt] file).
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
 - **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA.
 - **Example dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality before purchasing.
