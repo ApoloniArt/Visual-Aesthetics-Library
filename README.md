@@ -79,9 +79,9 @@ To use my library as intended, you'll need:
 
 ## 💬 Get the only Library you'll ever need
 
-My colossal [**<ins>Visual Aesthetics Library</ins>**](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png) is available exclusively from me. Join my Discord and hit me up to get access:
+My complete [Visual Aesthetics Library](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/VAL.png) is available exclusively from me. 
 
-### 👉 [ApoloniArt](https://discord.gg/XDExAUzuZp)
+Join my Discord [ApoloniArt](https://discord.gg/XDExAUzuZp) and hit me up to get access 😘
 
 ---
 
