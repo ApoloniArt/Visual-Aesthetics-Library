@@ -37,7 +37,7 @@ Browse the **[Collections](https://github.com/ApoloniArt/Visual-Aesthetics-Libra
 | Artist-Styles | 5 | 709 |
 | Japan-Gravure | 57 | 20,024 |
 | Midjourney | 64 | 1817 |
-| Pinterest-Girls | 34 | 10,975 |
+| Pinterest-Girls | 34 | 11,078 |
 | Pinterest-Style | 55 | 8,273 |
 | Pinterest-Unique | 55 | 1,101 |
 ## Current total: 50,516 | Current size: 9.6gb [as of 28/08/2026]
