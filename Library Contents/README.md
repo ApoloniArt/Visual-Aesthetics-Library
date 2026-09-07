@@ -1,5 +1,6 @@
 # Visual Aesthetics Library - Categories & Collections
-### A breakdown of each sub-folder's contents: The categories contained within, and number of Captioned reference pairs for each category.
+## A breakdown of each sub-folder's contents: The categories contained within, and number of Captioned reference pairs for each category.
+### Updated Captioned Pairs: 59,035 [118,070 files] Current size: 10.6gb [as of 28/08/2026]
 
 ## [ANIME-INFLUENCER](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Anime-Influencer.jpg)
 ### **4 Categories | 1492 Captioned Pairs**
@@ -178,8 +179,6 @@
 | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs | Category | Captioned Pairs |
 |---|---|---|---|---|---|---|---|
 | MegaStructures | 1504 |
-
-## Updated Captioned Pairs: 59,035 [118,070 files] Current size: 10.6gb [as of 28/08/2026]
 
 You can also utilise my **[ApoGalleria](https://github.com/ApoloniArt/ApoGalleria)** **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from <ins>~50,000 captions to around ~500,000</ins> generational possibilities.
 
