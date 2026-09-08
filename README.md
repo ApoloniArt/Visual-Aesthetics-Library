@@ -57,7 +57,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 ## ✨ Why use my Library?
 
 - **Never run out of ideas.** Search for a style, subject, or mood and you've got a ready-to-run starting point.
-- **Mix and match.** Like the lighting of one image but not the subject? Open it in ApoGalleria, live-edit the parts you want, keep the rest, and pass it straight to output.
+- **Mix and match.** Like the lighting or background of one image, but not the subject? Open it in ApoGalleria, live-swap/edit the parts you want, keep the rest, and pass it straight to output.
 - **Run it instantly, or make it yours.** Use any entry as-is, or treat it as a fully editable starting template.
 
 ## 🛠️ How I made this...
