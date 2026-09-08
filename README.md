@@ -49,8 +49,8 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 
 - **60,000 Image & caption pairs** — the [.jpg] image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON saved as a sidecar [.txt] file).
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
-- **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA.
-- **Sammple dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality and run test generations before purchasing.
+- **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA. If you do find any captions that do not run, let me know and I will verify and recaption for you.
+- **Sample dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality and run test generations before purchasing.
 - **Disclaimer!** — My library contains erotic imagery, and some NSFW imagery 🔞
 - **Transparency** — I hide nothing about where the images were obtained, and from whom they were created. My JSON captions are highly accurate & detailed, but not 100% perfect. They describe exact composition of the image, including any signatures, logos or watermarks that may be present on some images. This is the beauty of my custom node and Ideo4, as they can just be removed instantly by live editing within ApoGalleria, or BBOX deletion upon population. 
 
