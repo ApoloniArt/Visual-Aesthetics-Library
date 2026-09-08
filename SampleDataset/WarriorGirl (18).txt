@@ -1,0 +1,69 @@
+{
+  "high_level_description": "A cinematic portrait of a woman wearing an oxidized bronze Spartan-style helmet, featuring wet hair and skin covered in sand or grit.",
+  "style_description": {
+    "aesthetics": "moody, epic, gritty, hyper-realistic",
+    "lighting": "dramatic side lighting creating deep shadows and highlighting the texture of the metal and wet skin",
+    "photo": "85mm, f/2.8, sharp focus on eyes, cinematic color grading",
+    "medium": "photograph",
+    "color_palette": [
+      "#4A7C6D",
+      "#8B9A8E",
+      "#3D2B1F",
+      "#D9B091",
+      "#A6A6A6"
+    ]
+  },
+  "compositional_deconstruction": {
+    "background": "A textured, weathered stone wall with mottled shades of grey and beige. The surface appears damp or aged, providing a neutral but gritty backdrop that complements the subject's aesthetic.",
+    "elements": [
+      {
+        "type": "obj",
+        "bbox": [
+          8,
+          135,
+          640,
+          820
+        ],
+        "desc": "An ornate Spartan-style helmet made of heavily oxidized bronze or copper. It features a prominent central crest and large cheek guards. The surface is covered in a thick patina of turquoise and seafoam green oxidation with patches of dark brown rust and metallic highlights.",
+        "color_palette": [
+          "#4A7C6D",
+          "#8B9A8E",
+          "#3D2B1F",
+          "#A6A6A6"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          305,
+          210,
+          640,
+          740
+        ],
+        "desc": "The face of a woman with striking blue eyes and long dark eyelashes. She has a neutral, intense expression with full lips painted in a muted nude tone. Her skin is wet and glistening, with visible grains of sand or dirt across her cheeks and forehead.",
+        "color_palette": [
+          "#D9B091",
+          "#4A7C6D",
+          "#3D2B1F",
+          "#FFFFFF"
+        ]
+      },
+      {
+        "type": "obj",
+        "bbox": [
+          580,
+          0,
+          1000,
+          1000
+        ],
+        "desc": "The upper torso of a woman with wet, dark hair clinging to her shoulders. Her skin is bronzed and covered in sand and water droplets. She wears a matching oxidized bronze bustier that follows the contours of her large breasts. The lighting emphasizes the muscularity and texture of her collarbone and shoulders.",
+        "color_palette": [
+          "#D9B091",
+          "#4A7C6D",
+          "#3D2B1F",
+          "#8B9A8E"
+        ]
+      }
+    ]
+  }
+}
