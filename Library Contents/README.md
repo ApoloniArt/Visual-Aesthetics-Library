@@ -1,6 +1,6 @@
 # Visual Aesthetics Library - Categories & Collections
 ## A breakdown of each sub-folder's contents: The categories contained within, and number of Captioned reference pairs for each category.
-### ⚠️Updated as of 28/08/2026 | Captioned Pairs: 59,915 [119,830 files] Current size: 10.5gb
+### ⚠️Updated as of 07/09/2026 | Captioned Pairs: 59,915 [119,830 files] Current size: 10.5gb
 
 ## [ANIME-INFLUENCER](https://github.com/ApoloniArt/Visual-Aesthetics-Library/blob/main/Library%20Contents/assets/Anime-Influencer.jpg)
 ### **4 Categories | 1492 Captioned Pairs**
