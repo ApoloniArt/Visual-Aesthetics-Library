@@ -5,7 +5,7 @@ So I have dedicated the last couple of months to creating ***<ins>Visual Aesthet
 
 I have decided to offer my entire library as a package to anyone who longs for inspiration on tap, like me 😊
 
-### The largest image aesthetics library I ever created. My Library contains over ~60,000 diverse image references, each captioned to the highest descriptive level of structured json currently possible, at an unmatched level of intricate detail. 
+### The largest image aesthetics library I ever created. My Library contains ~60,000 diverse image references, each captioned to the highest descriptive level of structured json, at an unmatched level of intricate detail. 
 ### A fully expandable, colossal collection of ready-to-go generational ideas, right at your fingertips!
 ![ApoGalleria](assets/ApoGalleria.jpg)
 Utilise my ApoGalleria **sibling nodes** to convert any/all captions on the fly to Natural language, or Flux2 json. No separate captioning needed, just these two extra nodes effectively increasing the power of my library 10-fold, taking you from ~60,000 captions to around ~600,000 generational possibilities.
@@ -47,7 +47,7 @@ Browse the **[Library Contents](https://github.com/ApoloniArt/Visual-Aesthetics-
 
 ## 🔍 What's Inside my Library?
 
-- **60,000 Image & caption pairs** — the [.jpg] image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON saved as a sidecar [.txt] file).
+- **~60,000 Image & caption pairs** — the [.jpg] image is a visual reference only; the caption is the product. The exact caption format (structured Ideo4 JSON saved as a sidecar [.txt] file).
 - **Highly detailed captions** — High level description, lighting, color palette, medium, art style, full compositional breakdown, and elemental bounding box coordinates for Ideo4 JSON-based schema.
 - **Manually quality-checked** — every caption is hand-verified for correct structure and syntax at the point of creation. No automated agents used for generation or QA. If you do find any captions that do not run, let me know and I will verify and recaption for you.
 - **Sample dataset** — I have provided a non-cherry-picked sample dataset so you can preview caption quality and run test generations before purchasing.
